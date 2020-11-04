@@ -6,4 +6,4 @@
       * numpy
         and
       * time 
-  * All you need is a white cloth👻
+  * All you need is a webcam and a white cloth👻 
